@@ -36,6 +36,9 @@
         "type": "auto",
         "embedded": true
     },
+    "multifloor": {
+        "enabled": true
+    },
     "debug": {
         "memoryStatInterval" : false
     }
